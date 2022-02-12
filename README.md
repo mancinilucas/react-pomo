@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img alt="Pomodoro" src="./public/screenshot.pngscreenshot.png" width="100%">
+  <img alt="Pomodoro" src="./public/screenshot.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
